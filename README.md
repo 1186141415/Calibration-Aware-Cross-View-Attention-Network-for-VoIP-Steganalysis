@@ -124,10 +124,12 @@ pip install -r requirements.txt
 
 ## 7. 数据准备
 
-本项目使用 `.npy` 文件作为训练、验证和测试数据输入。  
-从代码命名方式来看，数据文件的组织形式类似于：
+本项目使用 `.npy` 文件作为训练、验证和测试数据输入。
 
 下载地址：[BaiduNetDisk](https://pan.baidu.com/s/1IqoVjrZwNXcxkm-KJL2uBQ) (PW: h3ts)。
+
+数据文件的组织形式类似于：
+
 ```text
 ./dataset/
 ├── data_{method}_{length}s_{em_rate}_train.npy
