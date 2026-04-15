@@ -309,7 +309,7 @@ python main.py --train False --Cosine True
 @article{cacvan_voip_steganalysis,
   title={Calibration-Aware Cross-View Attention Network for VoIP Steganalysis},
   author={Muyuan Li},
-  journal={在投ing},
+  journal={Ongoing research},
   year={2026}
 }
 ```
