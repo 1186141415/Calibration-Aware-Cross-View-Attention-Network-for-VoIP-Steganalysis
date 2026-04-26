@@ -269,7 +269,7 @@ python main.py --train False --Cosine True
 
 ## 12. 实验设置说明
 
-从当前代码默认参数来看，训练时主要支持如下设置：
+训练时主要支持如下设置：
 
 - 隐写方法：`Geiser`, `Miao_enta1`, `Miao_enta2`, `Miao_enta4`
 - 语言类型：`Chinese`, `English`
